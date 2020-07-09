@@ -1,6 +1,6 @@
 ### 
 
-![BMX riding](tabletop.jpg)
+![BMX riding](https://github.com/aalmada/aalmada/blob/master/tabletop.jpg)
 
 I'm passionate about technology in general...
 
