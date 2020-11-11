@@ -1,6 +1,8 @@
 ### 
 
-[![Antão Almada's github stats](https://github-readme-stats.vercel.app/api?username=aalmada)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=aalmada&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalmada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm passionate about technology in general...
 
