@@ -1,6 +1,6 @@
 ### 
 
-![BMX riding](https://github.com/aalmada/aalmada/blob/master/tabletop.jpg)
+[![Antão Almada's github stats](https://github-readme-stats.vercel.app/api?username=aalmada)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm passionate about technology in general...
 
