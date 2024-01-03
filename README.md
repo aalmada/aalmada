@@ -2,8 +2,6 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=aalmada&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalmada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 I have a deep passion for technology across the board. My journey into the world of innovative human-computer interaction began [back in the late 90s with virtual reality](https://dl.acm.org/doi/10.1145/948449.948475). Over time, I delved into camera-based full-body interaction through computer vision and explored augmented reality using devices like the Epson Moverio and Microsoft Hololens.
 
 My coding journey started on a [ZX Spectrum 48K](https://en.wikipedia.org/wiki/ZX_Spectrum), and I've since earned a Computer Science degree from the [New University of Lisbon](https://www.unl.pt/). While I spent many years working with C++, my primary coding tool of choice today is C#.
