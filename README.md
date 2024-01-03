@@ -22,7 +22,7 @@ Additionally, I've made contributions to various projects, including:
 On the side, I write articles about C# and .NET on [Medium](https://antao-almada.medium.com/) and [LinkedIn](https://www.linkedin.com/in/antaoalmada/recent-activity/articles/). You can also stay updated with me through the following social media platforms:
 
 - [Blog](https://aalmada.github.io/)
-- <a rel="nofollow noopener noreferrer me" href="https://dotnet.social/@antaoalmada">Masrodon</a>
+- <a rel="nofollow noopener noreferrer me" href="https://dotnet.social/@antaoalmada">Mastodon</a>
 - [LinkedIn](https://www.linkedin.com/in/antaoalmada/)
 - [Instagram](https://www.instagram.com/antao.almada/)
 - [Flickr](https://www.flickr.com/people/aalmada/)
