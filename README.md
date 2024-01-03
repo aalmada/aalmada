@@ -19,14 +19,6 @@ Additionally, I've made contributions to various projects, including:
 - [Kevsoft.Ssml](https://github.com/kevbite/Kevsoft.Ssml)
 - [language-ext](https://github.com/louthy/language-ext)
 
-On the side, I write articles about C# and .NET on [Medium](https://antao-almada.medium.com/) and [LinkedIn](https://www.linkedin.com/in/antaoalmada/recent-activity/articles/). You can also stay updated with me through the following social media platforms:
-
-- [Blog](https://aalmada.github.io/)
-- [Mastodon](https://dotnet.social/@antaoalmada "{rel='me'}")
-- [LinkedIn](https://www.linkedin.com/in/antaoalmada/)
-- [Instagram](https://www.instagram.com/antao.almada/)
-- [Flickr](https://www.flickr.com/people/aalmada/)
-
 Beyond my tech interests, I'm a devoted husband and father, and I used to be an avid BMX rider.
 
 <!--
